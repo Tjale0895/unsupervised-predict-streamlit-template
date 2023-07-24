@@ -141,7 +141,7 @@ def main():
 
         with tab2:
             st.subheader("Meet the Team")
-            st.image("resources/imgs/MeetTeam.jpeg")
+            st.image("resources/imgs/team.png")
 
     if page_selection == "Insights":    
         st.subheader("Learn About Our Data")
